@@ -1,6 +1,5 @@
 Optimiser la gestion des données d'une boutique avec Python
 
-Objectif : Prendre en main le langage Python pour analyser les données de la FAO sur la faim dans le monde.
 #### Compétences cibles
   - Classifier différents types de données
   - Gérer les erreurs et les incohérences présentes sur des données stockées
